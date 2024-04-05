@@ -11,7 +11,7 @@ while(True):
     lower=int(input("Enter lower range: "))
     upper=int(input("Enter upper range: "))
     guessesTaken = 0
-    number = random.randint(lower,upper)
+    number = random.randint(lower,upper);
     
     while guessesTaken < 3:
         print("Take a guess.") 
