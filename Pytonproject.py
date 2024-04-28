@@ -2,7 +2,7 @@ import random
 print("Hello!")
 myName=input("Enter Your name: ")
 print("Welcome, " + myName)
-choice="yes"
+choice="yes
 score=0
 while(True):
     if(choice=="no"):
