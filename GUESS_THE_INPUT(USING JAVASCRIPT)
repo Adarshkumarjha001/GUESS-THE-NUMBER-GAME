@@ -13,4 +13,4 @@ do{
         alert("Winner");
         break;
     }
-}while(guess!=0)
+}while(guess!=0);
